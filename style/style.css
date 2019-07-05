@@ -1,0 +1,97 @@
+body {
+  background-color: #a1cfc0;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+}
+
+body #header {
+  font-size: 40px;
+  color: #006666;
+  line-height: 10px;
+}
+
+body .subContainer h1 {
+  color: #006666;
+  text-decoration: underline;
+}
+
+body .subContainer .appContainer {
+  background-color: #006666;
+  display: inline-block;
+  padding: 10px;
+  margin: 20px;
+  border-radius: 25px;
+}
+
+body .subContainer .img {
+  height: 255px;
+  width: 250px;
+  border-radius: 25px;
+}
+
+body .subContainer .cardInfo {
+  background-color: #a1cfc0;
+  border-radius: 20px;
+  width: 250px;
+  height: 100px;
+  color: #006666;
+}
+
+body .subContainer .uxContainer {
+  background-color: #006666;
+  display: inline-block;
+  padding: 10px;
+  margin: 20px;
+  border-radius: 25px;
+}
+
+body .subContainer .img {
+  height: 255px;
+  width: 250px;
+  border-radius: 25px;
+}
+
+body .subContainer .cardInfo {
+  background-color: #a1cfc0;
+  border-radius: 20px;
+  width: 250px;
+  height: 100px;
+  color: #006666;
+}
+
+body #aboutContents {
+  font-size: 25px;
+  border-style: solid;
+  border-width: 3px;
+  border-color: #006666;
+  color: #006666;
+  border-radius: 25px;
+}
+
+body #formContents input {
+  width: 600px;
+  height: 20px;
+  margin: 5px;
+  border: none;
+  padding: 15px;
+  border-radius: 25px;
+}
+
+body #formContents textarea {
+  width: 625px;
+  height: 200px;
+  margin: 5px;
+  border-radius: 25px;
+  padding: 10px;
+}
+
+body #formContents #submitButton {
+  width: 625px;
+  height: 55px;
+  background-color: #006666;
+  color: white;
+  font-size: 25px;
+  border-radius: 25px;
+}
+/*# sourceMappingURL=style.css.map */
